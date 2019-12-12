@@ -1,0 +1,11 @@
+.claaseeee :hover {
+    display: block;
+}
+
+.claaseeee {
+    display: none;
+}
+
+.seleccionado {
+    background-color: blue;
+}
