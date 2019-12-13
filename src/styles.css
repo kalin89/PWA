@@ -2,3 +2,9 @@
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+@media only screen and (max-device-width: 768px){
+    .mat-form-field {
+        width: 100%;
+    }
+}
